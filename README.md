@@ -9,7 +9,15 @@ Kai Guan<sup>1,2,*</sup>, Minchao Jiang<sup>2,*</sup>, Liruichen Wang<sup>2</sup
 <sup>1</sup>The Hong Kong Polytechnic University &nbsp;&nbsp; <sup>2</sup>Eastern Institute of Technology, Ningbo  
 <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>†</sup>Corresponding authors
 
-[Project Website](https://ka1guan.github.io/RESELF)
+<p align="center">
+  <a href="https://ka1guan.github.io/RESELF">
+    <img src="https://img.shields.io/badge/Project-Website-555?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Website"/>
+  </a>
+  &nbsp;
+  <a href="https://arxiv.org/abs/2609.01276">
+    <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/>
+  </a>
+</p>
 
 </div>
 
